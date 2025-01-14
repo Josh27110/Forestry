@@ -10,3 +10,7 @@ As a prototype, we still had to properly understand more about the process that 
 regarding any business and as prospects of improving this system, we've been searching some other tools like WISE, software design for fire prediction software developed in Canada.
 
 ![image](https://github.com/user-attachments/assets/c4d03e3d-d249-43a3-a96a-03b46ffdbcf6)
+
+We submitted our project to a contest held on "Instituto Politecnico Nacional (IPN) Escuela Superior de Computo (ESCOM)" called ExpoESCOM, being nominated as one of the projects that won a category
+and received some prize money.
+![image](https://github.com/user-attachments/assets/13d7ecae-9263-4ce9-948c-a92dc72cd09a)
