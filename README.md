@@ -5,6 +5,7 @@ was learning a JS API called "Leaflet" for the usage of geospatial information s
 so we could generate a report and the radius of where the incident was occurring, would appear visually in our maps to show staff members from CONAFOR what they were dealing against so
 they could properly designate strategies and countermeasures to shut down the fire, so with a database, we could track what resources are being displayed in the area and see what we have
 at our disposal in our surroundings.
+
 As a prototype, we still had to properly understand more about the process that CONAFOR uses for wildfire attention, but as a School project it helps lay out the basis for creating documentation
 regarding any business and as prospects of improving this system, we've been searching some other tools like WISE, software design for fire prediction software developed in Canada.
 
